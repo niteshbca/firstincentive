@@ -142,7 +142,7 @@ const AdminLogin = () => {
           style={{ backgroundColor: 'transparent', color: 'white', border: '1px solid #fff', marginTop: 15 }}
           onClick={() => navigate('/')}
         >
-          Back to Welcome
+          Back too Welcome
         </button>
       </div>
     </div>
