@@ -111,7 +111,7 @@ const AdminLogin = () => {
     }
       `}</style>
       <div className="login-container">
-        <h2>Admin Login</h2>
+        <h2>Admin Login 123</h2>
         <input
           type="text"
           placeholder="Enter Admin Name"
